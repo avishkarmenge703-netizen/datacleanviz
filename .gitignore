@@ -1,0 +1,25 @@
+# Virtual environments
+venv/
+env/
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Generated folders
+visualizations/
+temp_data/
+EDA_report.html
+cleaned_data.csv
+
+# Sample data you don't want to track
+demo/employee_data.csv
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
