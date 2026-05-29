@@ -11,6 +11,8 @@ Automated data cleaning and comprehensive EDA for structured datasets (CSV/Excel
 - Interactive EDA dashboard (histograms, KDE, count plots, box plots, heatmap, clustermap, pair plots, stacked bar charts)
 - Detailed cleaning log and downloadable cleaned CSV
 
+# App link: https://datacleanviz-6hq8xm52jnkmkpceyjm6wp.streamlit.app/
+
 ## Installation
 ```bash
 git clone https://github.com/YOUR_USERNAME/datacleanviz.git
